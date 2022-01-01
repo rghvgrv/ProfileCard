@@ -11,10 +11,11 @@ The small section has a typewriter effect that look cool😎
 
 
 
-# 👩‍💻 Language Used 
+# 👩‍💻 Languages Used
 1. HTML
 2. CSS
-3. Javascript 
+3. Javascript  
 
 # Follow me ✨
 [!(https://rghvgrv.github.io/SocialSite/)]
+ 
