@@ -17,6 +17,6 @@ The small section has a typewriter effect that look cool😎
 3. Javascript  
 
 # Follow me ✨
-Click Here [(https://rghvgrv.github.io/SocialSite/)] 
+Click Here [Link](https://rghvgrv.github.io/SocialSite/)
  
  
